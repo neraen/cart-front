@@ -1,0 +1,7 @@
+.product-card{
+  display: flex;
+  width: 700px;
+  height: 150px;
+  justify-content: center;
+  align-items: center;
+}
